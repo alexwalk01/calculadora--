@@ -1,3 +1,5 @@
+**Jose Alejandro Díaz Gómez, DyGS 9A**
+
 Calculadora de Suma y Resta en Python
 
 ¡Bienvenido a este mini proyecto desarrollado en Python! Esta es una calculadora gráfica sencilla que permite realizar operaciones básicas de suma y resta entre dos números.
